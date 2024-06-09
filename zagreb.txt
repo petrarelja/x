@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Zagreb</title>
+    </head>
+    
+    <body>
+        <h1>Zagreb</h1>
+        Zagreb je glavni grad Republike Hrvatske, i najveći grad u Hrvatskoj po broju stanovnika. Povijesno gledajući, grad Zagreb je izrastao iz dva naselja na susjednim brežuljcima, Gradeca i Kaptola, koji čine jezgru današnjeg Zagreba, njegovo povijesno središte. 
+        <p>Zagreb danas predstavlja upravno, gospodarsko, kulturno, prometno i znanstveno središte Hrvatske. Položajem spada u gradove Srednje Europe. </p>
+        <h3>Sadržaj:</h3>
+        1. Ime<br>
+        2. Zemljopis<br>
+        2.1. Položaj<br>
+        2.2. Klima<br>
+        <h2>1. Ime</h2>
+        <p>O postanku imena grada Zagreba postoje različite teorije. Ime je neosporno hrvatskog podrijetla. Čak i latinsko ime Zagabria upućuje na to da je ta lokacija još u srednjem vijeku bila zaštićena grabom ili opkopom. </p>
+        <p>Po jednim se izvodi od glagola zagrepsti/odnosno ukopati. Po drugim se dovodi u svezu sa starim hrvatskim imenom za obalu "b(e)reg" koju i danas koriste u krašićkom kraju. U Krašiću Zagreb nazivaju Zabreg. </p>
+        <h2>2. Zemljopis</h2>
+        <h3>2.1. Položaj</h3>
+        <p>Zagreb se nalazi u kontinentalnoj središnjoj Hrvatskoj, na južnim obroncima Medvednice te na obalama rijeke Save. Nalazi se na nadmorskoj visini od 122 metra (Zrinjevac). Povoljan zemljopisni smještaj na jugozapadnom kutu Panonske nizine, između alpske, dinarske, jadranske i panonske regije, uzrok je činjenici da se Zagreb nalazi na prometnom čvorištu puteva između Srednje i Jugoistočne Europe te Jadranskog mora. </p>
+        <h3>2.2. Klima</h3>
+        <p>Klima u Zagrebu je umjerena kontinentalna. Ljeta su vruća i suha s prosječnim temperaturama od 20 °C, dok su zime hladne s prosječnim temperaturama od 1 °C. </p>
+    </body>
+</html>
